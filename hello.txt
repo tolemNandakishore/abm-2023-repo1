@@ -15,4 +15,5 @@ developer1 changed
 
 >>>>>>> bb3c759e99964b7892d2ab8c8c56c0bd2f605e90
 developer2 made changes
+developer1 made changes second time
 
