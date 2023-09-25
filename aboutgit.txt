@@ -1,0 +1,33 @@
+about GIT
+   cd c:Training/gitDemo(path)
+1. git status (for chaechking the status)
+2. git init(initialization i.e creating the .git file that is invisible)
+
+            branch.?
+             
+3. notepad hello.txt(crating the file in notepad)
+4. check status by using git status
+5. add the hello fie by using git add hello.txt
+6. commit ( git commit-m"my first commit") i.e saving
+
+======================================================================================
+1.notepad hello.txt
+2.git add hello.txt
+3.git commit-m"write some message"
+================================================
+1.notepad hello.txt
+2.git add hello.txt
+3.git commit-m"write message"
+====================================================
+why we learn git
+
+1.type git log(history of commit)
+  copy the alphanumarica code and use commamd
+2. git checkout(past alphanumarical code and enter i.e to check old code(checking past code))
+3.git checkout master(to work on curreent code)
+==========================================================================================
+                       GIT-REPOSITORY
+1.create account
+2.copy link in repositiry and past in git
+3. creating repo==>>git remote add myremoterepo----(past above link here).
+4.pushing the code==>>git push myremoterepo master
