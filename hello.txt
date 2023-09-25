@@ -6,8 +6,13 @@ kjnbdcndddn
 time 11.18
 time 11.41
 developer 1 changes on file
+<<<<<<< HEAD
+will get error
+=======
 modification done by nanda kishore
 modification done by harshad
 developer1 changed
 
+>>>>>>> bb3c759e99964b7892d2ab8c8c56c0bd2f605e90
+developer2 made changes
 
