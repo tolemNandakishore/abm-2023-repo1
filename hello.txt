@@ -1,1 +1,3 @@
 good morning..!
+
+open again in command i.e notepad hello.txt
